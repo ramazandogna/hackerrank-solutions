@@ -9,7 +9,7 @@ This folder contains solutions to HackerRank's Easy level algorithm problems.
 
 | Problem Name     | Description                                   | Solution                      | Status |
 | ---------------- | --------------------------------------------- | ----------------------------- | ------ |
-| Simple Array Sum | Calculate the sum of all elements in an array | [Code](./problem1.ts)         | ✅     |
+| Simple Array Sum | Calculate the sum of all elements in an array | [Code](./simple-array-sum.ts) | ✅     |
 | Compare Triplets | Compare two triplets and award points         | [Code](./compare-triplets.ts) | ✅     |
 
 ## 🔥 How Can I Contribute?

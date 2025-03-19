@@ -1,16 +1,15 @@
 # 📌 Easy Algorithm Solutions
 
-[![Problems](https://img.shields.io/badge/Problems-2-brightgreen.svg)](./algorithms/easy)
+[![Problems](https://img.shields.io/badge/Problems-1-brightgreen.svg)](./algorithms/easy)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](./algorithms/easy)
 
 This folder contains solutions to HackerRank's Easy level algorithm problems.
 
 ## 📂 Solutions List
 
-| Problem Name | Description         | Solution              | Status |
-| ------------ | ------------------- | --------------------- | ------ |
-| Problem 1    | Problem description | [Code](./problem1.ts) | ✅     |
-| Problem 2    | Problem description | [Code](./problem2.ts) | ✅     |
+| Problem Name     | Description                                   | Solution              | Status |
+| ---------------- | --------------------------------------------- | --------------------- | ------ |
+| Simple Array Sum | Calculate the sum of all elements in an array | [Code](./problem1.ts) | ✅     |
 
 ## 🔥 How Can I Contribute?
 

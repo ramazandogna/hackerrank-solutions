@@ -1,6 +1,6 @@
 # My HackerRank Solutions 🚀
 
-[![Solutions](https://img.shields.io/badge/Solutions-1-brightgreen.svg)](./algorithms/)
+[![Solutions](https://img.shields.io/badge/Solutions-2-brightgreen.svg)](./algorithms/)
 [![Languages](https://img.shields.io/badge/Languages-TypeScript-blue.svg)](./algorithms/)
 [![Author](https://img.shields.io/badge/Author-RamazanDogan-orange.svg)](https://www.linkedin.com/in/ramazandogna/)
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
@@ -19,13 +19,13 @@ This repository contains my solutions to HackerRank algorithm and data structure
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ramazandogna/hackerrank-solutions)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ramazandogna/hackerrank-solutions)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-1-brightgreen.svg)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-brightgreen.svg)
 
 | Category        | Easy | Medium | Hard | Total |
 | --------------- | ---- | ------ | ---- | ----- |
-| Algorithms      | 1    | 0      | 0    | 1     |
+| Algorithms      | 2    | 0      | 0    | 2     |
 | Data Structures | 0    | 0      | 0    | 0     |
-| Total           | 1    | 0      | 0    | 1     |
+| Total           | 2    | 0      | 0    | 2     |
 
 ## 📜 Usage
 
@@ -38,7 +38,7 @@ This repository contains my solutions to HackerRank algorithm and data structure
 
 | Date       | Topic                     | Problems Solved |
 | ---------- | ------------------------- | --------------- |
-| 2023-05-20 | Array Manipulation (Easy) | 1               |
+| 2023-05-20 | Array Manipulation (Easy) | 2               |
 
 ## 🎯 Goals
 
